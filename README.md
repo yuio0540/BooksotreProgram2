@@ -1,4 +1,4 @@
-# BooksotreProgram2
+# BookstoreProgram2
 서점프로그램-웹프로그래밍1
 
 프로그램에 등록된 책을 사용자가 구매할 수 있는 프로그램  
